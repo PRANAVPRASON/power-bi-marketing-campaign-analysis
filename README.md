@@ -6,6 +6,7 @@ This project focuses on analyzing marketing campaign performance using Microsoft
 The objective is to evaluate marketing effectiveness and identify the campaigns generating the highest returns.
 
 ## Dashboard Preview
+![Marketing Campaign Dashboard](Screenshot%202026-11-18%20125611.png)
 
 The dashboard provides a visual overview of marketing performance through interactive charts and KPI cards.
 
